@@ -1,0 +1,7 @@
+----MARKS REPORT-----
+Class Average : 49.416666666666664
+pass percentage :60.0
+Fail percentage :40.0
+Distinct percentage :23.333333333333332
+Highest frequency :(100, 1)
+lowest mark frequency :(0, 1)
